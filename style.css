@@ -1,0 +1,25 @@
+        #a{
+            color: palevioletred;
+        }
+        .main{
+            color: darkmagenta;
+        }
+        .b{
+            color: green;
+        }
+        .head{
+            background-color: rgb(253, 232, 236);
+            color: darkblue;
+        }
+        #content{
+            color: darkred;
+        }
+        #certificate{
+            color: blue;
+        }
+        .soft{
+            color: rgb(224, 94, 115);
+        }
+        #com{
+            color: rgb(83, 78, 78);
+        }
